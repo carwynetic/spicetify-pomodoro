@@ -1,0 +1,12 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "Pomodoro timer widget for Spotify",
+  "preview": "preview.png",
+  "main": "pomodoro.js",
+  "authors": [
+    {
+      "name": "Carwyn"
+    }
+  ],
+  "tags": ["productivity", "timer"]
+}
